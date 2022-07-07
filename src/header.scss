@@ -1,0 +1,20 @@
+@import "variables";
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+  padding-top: 20px;
+  color: $secondary--color;
+  .logo {
+    margin-left: 20px;
+  }
+    nav {
+      display: flex;
+      justify-content: space-between;
+      div {
+        margin-right: 20px;
+      }
+    }
+}

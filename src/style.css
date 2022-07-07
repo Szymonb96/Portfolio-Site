@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap");
+.App {
+  font-family: "Quicksand", sans-serif;
+  color: #01FADA;
+  font-size: 50px;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+  padding-top: 20px;
+  color: #0d9cfd;
+}
+header .logo {
+  margin-left: 20px;
+}
+header nav {
+  display: flex;
+  justify-content: space-between;
+}
+header nav div {
+  margin-right: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
